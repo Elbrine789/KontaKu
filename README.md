@@ -40,7 +40,7 @@ Pastikan Anda sudah menginstal perangkat lunak berikut:
 ### 2. Kloning Repositori (Clone)
 Buka terminal atau CMD, lalu jalankan perintah berikut:
 ```bash
-git clone https://github.com/USERNAME_ANDA/kontaku.git
+git clone https://github.com/Elbrine789/kontaku.git
 Atau, Anda bisa langsung mengunduh file ZIP dari tombol Code di atas dan mengekstraknya.
 
 ### 3. Membuka Proyek di Android Studio
